@@ -6,7 +6,6 @@ Created on Fri Aug  7 01:23:37 2020
 """
 
 from flask import Flask,render_template,url_for,request
-import numpy as np
 import pickle
 
 def word_divide_char(inputs):
